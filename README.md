@@ -1,2 +1,2 @@
 # soft-portfolio
-A portfolio higlighting soft skills.
+A portfolio in construction.
